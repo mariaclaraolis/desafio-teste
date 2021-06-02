@@ -1,18 +1,19 @@
-Documentação contendo passo a passo para rodar o projeto de automação.
+# Cadastro Saraiva
 
-PRÉ-REQUISITOS: 
+### Como executar a automação:
+
+#### PRÉ-REQUISITOS: 
 
 Possuir eclipse e o Chrome instalados.
 
-PASSO A PASSO:
+#### PASSO A PASSO:
 
-1- Baixar o projeto de automação.
-2- Importar o projeto no eclipse.
-3- Baixar o chromedriver
-4- Mover chromedriver para pasta downloads (Obs: verificar a versão do chromedriver, ela precisa ser compatível com o Chrome)
+* 1- Baixar o projeto de automação.
+* 2- Importar o projeto no eclipse.
+* 3- Baixar o chromedriver
+* 4- Mover chromedriver para pasta downloads (Obs: verificar a versão do chromedriver, ela precisa ser compatível com o Chrome)
 
-Executando o teste:
+#### Executando o teste:
 
-1. Ir no classe 'CriacaoCadastroTeste' alterar os valores das variáveis (CPF e e-mail) para criação do cadastro.	
-2. Ir na classe 'SuiteSaraiva' e executar o teste
-
+* Ir no classe 'CriacaoCadastroTeste' alterar os valores das variáveis (CPF e e-mail) para criação do cadastro
+* Ir na classe 'SuiteSaraiva' e executar o teste
