@@ -11,6 +11,7 @@ Possuir eclipse e o Chrome instalados.
 * 1- Baixar o projeto de automação.
 * 2- Importar o projeto no eclipse.
 * 3- Baixar o chromedriver (Obs: verificar a versão do chromedriver, ela precisa ser compatível com o Chrome)
+* 4- Mover chromedriver para pasta 'downloads' 
 
 #### Executando o teste:
 
